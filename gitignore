@@ -1,0 +1,28 @@
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Matplotlib & SciPy caches
+*.cache
+*.npy
+*.npz
+
+# DO include .mat files — essential for reproducibility
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
