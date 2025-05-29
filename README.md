@@ -70,4 +70,3 @@ python seismic_z_analysis.py
 ---
 
 © Universitat de Barcelona (original data & concept)  
-Python translation and packaging by AI assistant 🤖
